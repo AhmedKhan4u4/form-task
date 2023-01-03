@@ -1,0 +1,75 @@
+body {
+  padding: 75px 102px;
+  background-color: azure;
+}
+.head {
+  color: brown;
+}
+.formd {
+  text-align: center;
+}
+.formdesign {
+  font-size: 20px;
+}
+
+.formdesign input {
+  width: 50%;
+  padding: 12px 20px;
+  border: 1px solid brown;
+  margin: 14px;
+  border-radius: 10px;
+  font-size: 15px;
+  color: brown;
+}
+
+.birthdesign {
+  font-size: 20px;
+}
+.birthdesign input {
+  width: 50%;
+  padding: 12px 20px;
+  border: 1px solid brown;
+  margin: 12px;
+  border-radius: 10px;
+  font-size: 15px;
+  color: brown;
+}
+.startdesign {
+  font-size: 20px;
+}
+.startdesign input {
+  width: 50%;
+  padding: 12px 20px;
+  border: 1px solid brown;
+  margin: 14px;
+  border-radius: 10px;
+  font-size: 15px;
+  color: brown;
+}
+.enddesign {
+  font-size: 20px;
+}
+.enddesign input {
+  width: 50%;
+  padding: 12px 20px;
+  border: 1px solid brown;
+  margin: 14px;
+  border-radius: 10px;
+  font-size: 15px;
+  color: brown;
+}
+.uploadfile {
+  font-size: 20px;
+}
+.uploadfile input {
+  width: 50%;
+  padding: 12px 20px;
+  border: 1px solid brown;
+  margin: 14px;
+  border-radius: 10px;
+  font-size: 15px;
+  color: brown;
+}
+.btn {
+  size: 30px;
+}
